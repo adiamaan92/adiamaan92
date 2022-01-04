@@ -12,7 +12,11 @@ I am also on:
 
 ### ✍🏽 Blogs:
 <!-- BLOG-POST-LIST:START -->
-
+- [24 rules of thumb every data scientist should know](https://medium.com/geekculture/24-maxims-every-data-scientist-should-know-d9ef9df5887e?source=rss-d59191da7c75------2)
+- [Generating buddha with python](https://medium.com/mlearning-ai/generating-buddha-with-computation-401c6cb35bb5?source=rss-d59191da7c75------2)
+- [Swiss army knife of pandas filtering](https://towardsdatascience.com/swiss-army-knife-of-pandas-filtering-24866166ca97?source=rss-d59191da7c75------2)
+- [A Guide for Optimizing Your Data Science Workflow](https://towardsdatascience.com/part-1-a-guide-for-optimizing-your-data-science-workflow-53add6481556?source=rss-d59191da7c75------2)
+- [What can GitHub copilot do for Data scientists?](https://towardsdatascience.com/tips-for-using-github-copilot-in-everyday-python-programming-8ef9e91a9b47?source=rss-d59191da7c75------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💾 Datasets:
