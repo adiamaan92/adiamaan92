@@ -21,12 +21,12 @@ I am also on:
 ### 💾 Datasets:
 I maintain the following datasets
 #### ⚡ Active Datasets:
+These datasets are updated everyday
+
 [F1 Interview Experience](https://www.kaggle.com/adiamaan/f1-visa-experiences)  
-F1 interview experience sourced from Telegram
 
 #### ⚡ Passive Datasets:
 [Movie Subtitle Dataset](https://www.kaggle.com/adiamaan/movie-subtitle-dataset)  
-5K Time stamped movie subtitles in english
 
 
 ![](https://komarev.com/ghpvc/?username=adiamaan92&style=flat)
