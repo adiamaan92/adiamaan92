@@ -18,11 +18,8 @@ I am also on:
  - 💫 [A Guide for Optimizing Your Data Science Workflow](https://towardsdatascience.com/part-1-a-guide-for-optimizing-your-data-science-workflow-53add6481556?source=rss-d59191da7c75------2) Tue Aug 31 2021 12:55 AM
  - 🚀 [What can GitHub copilot do for Data scientists?](https://towardsdatascience.com/tips-for-using-github-copilot-in-everyday-python-programming-8ef9e91a9b47?source=rss-d59191da7c75------2) Sat Aug 21 2021 6:35 PM<!-- BLOG-POST-LIST:END -->
 
-### 💾 Datasets:
-I maintain the following datasets
 #### ⚡ Active Datasets:
-These datasets are updated everyday
-
+I maintain these datasets and they are updated everyday,
 [F1 Interview Experience](https://www.kaggle.com/adiamaan/f1-visa-experiences)  
 
 #### ⚡ Passive Datasets:
