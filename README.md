@@ -19,7 +19,7 @@ I am also on:
  - 🚀 [What can GitHub copilot do for Data scientists?](https://towardsdatascience.com/tips-for-using-github-copilot-in-everyday-python-programming-8ef9e91a9b47?source=rss-d59191da7c75------2) Sat Aug 21 2021 6:35 PM<!-- BLOG-POST-LIST:END -->
 
 #### ⚡ Active Datasets:
-I maintain these datasets and they are updated everyday,
+I maintain these datasets and they are updated everyday,  
 [F1 Interview Experience](https://www.kaggle.com/adiamaan/f1-visa-experiences)  
 
 #### ⚡ Passive Datasets:
