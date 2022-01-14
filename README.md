@@ -21,6 +21,7 @@ I am also on:
 #### ⚡ Active Datasets:
 I maintain these datasets and they are updated everyday,  
 [F1 Interview Experience](https://www.kaggle.com/adiamaan/f1-visa-experiences)  
+[PM Modi Text Speeches](https://www.kaggle.com/adiamaan/modi-speeches)  
 
 #### ⚡ Passive Datasets:
 [Movie Subtitle Dataset](https://www.kaggle.com/adiamaan/movie-subtitle-dataset)  
