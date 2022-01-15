@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.adiamaan.com/feed"
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮) [$title]($url) $date"
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮,✨,💡,🔨,🪔) [$title]($url) $date"
