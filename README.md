@@ -12,11 +12,11 @@ I am also on:
 
 ### ✍🏽 Blogs:
 <!-- BLOG-POST-LIST:START -->
- - 💫 [24 rules of thumb every data scientist should know](https://medium.com/geekculture/24-maxims-every-data-scientist-should-know-d9ef9df5887e?source=rss-d59191da7c75------2) Tue Oct 05 2021 5:42 AM
- - 🚀 [Generating buddha with python](https://medium.com/mlearning-ai/generating-buddha-with-computation-401c6cb35bb5?source=rss-d59191da7c75------2) Mon Sep 27 2021 3:01 AM
- - 💯 [Swiss army knife of pandas filtering](https://towardsdatascience.com/swiss-army-knife-of-pandas-filtering-24866166ca97?source=rss-d59191da7c75------2) Sun Sep 19 2021 7:55 AM
- - 💫 [A Guide for Optimizing Your Data Science Workflow](https://towardsdatascience.com/part-1-a-guide-for-optimizing-your-data-science-workflow-53add6481556?source=rss-d59191da7c75------2) Tue Aug 31 2021 12:55 AM
- - 🚀 [What can GitHub copilot do for Data scientists?](https://towardsdatascience.com/tips-for-using-github-copilot-in-everyday-python-programming-8ef9e91a9b47?source=rss-d59191da7c75------2) Sat Aug 21 2021 6:35 PM<!-- BLOG-POST-LIST:END -->
+ - 🌮 [24 rules of thumb every data scientist should know](https://medium.com/geekculture/24-maxims-every-data-scientist-should-know-d9ef9df5887e?source=rss-d59191da7c75------2) Tue Oct 05 2021 5:42 AM
+ - ✨ [Generating buddha with python](https://medium.com/mlearning-ai/generating-buddha-with-computation-401c6cb35bb5?source=rss-d59191da7c75------2) Mon Sep 27 2021 3:01 AM
+ - 🔥 [Swiss army knife of pandas filtering](https://towardsdatascience.com/swiss-army-knife-of-pandas-filtering-24866166ca97?source=rss-d59191da7c75------2) Sun Sep 19 2021 7:55 AM
+ - 🚀 [A Guide for Optimizing Your Data Science Workflow](https://towardsdatascience.com/part-1-a-guide-for-optimizing-your-data-science-workflow-53add6481556?source=rss-d59191da7c75------2) Tue Aug 31 2021 12:55 AM
+ - ✨ [What can GitHub copilot do for Data scientists?](https://towardsdatascience.com/tips-for-using-github-copilot-in-everyday-python-programming-8ef9e91a9b47?source=rss-d59191da7c75------2) Sat Aug 21 2021 6:35 PM<!-- BLOG-POST-LIST:END -->
 
 #### ⚡ Active Datasets:
 I maintain these datasets and they are updated everyday,  
