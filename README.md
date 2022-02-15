@@ -12,11 +12,11 @@ I am also on:
 
 ### ✍🏽 Blogs:
 <!-- BLOG-POST-LIST:START -->
- - 🌮 [How to build an auto-updating open-source dataset using Kaggle API and Github Actions](https://pub.towardsai.net/how-to-build-an-auto-updating-open-source-dataset-using-kaggle-api-and-github-actions-a7b010eca222?source=rss-d59191da7c75------2) Sun Jan 16 2022 7:03 PM
- - ✨ [24 rules of thumb every data scientist should know](https://medium.com/geekculture/24-maxims-every-data-scientist-should-know-d9ef9df5887e?source=rss-d59191da7c75------2) Tue Oct 05 2021 5:42 AM
- - 🔥 [Generating buddha with python](https://medium.com/mlearning-ai/generating-buddha-with-computation-401c6cb35bb5?source=rss-d59191da7c75------2) Mon Sep 27 2021 3:01 AM
- - 🚀 [Swiss army knife of pandas filtering](https://towardsdatascience.com/swiss-army-knife-of-pandas-filtering-24866166ca97?source=rss-d59191da7c75------2) Sun Sep 19 2021 7:55 AM
- - ✨ [A Guide for Optimizing Your Data Science Workflow](https://towardsdatascience.com/part-1-a-guide-for-optimizing-your-data-science-workflow-53add6481556?source=rss-d59191da7c75------2) Tue Aug 31 2021 12:55 AM<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Fantastic activation functions and when to use them](https://towardsdatascience.com/fantastic-activation-functions-and-when-to-use-them-481fe2bb2bde?source=rss-d59191da7c75------2) Tue Feb 15 2022 2:19 AM
+ - ✨ [How to Build an Auto-Updating Open-Source Dataset Using Kaggle API and GitHub Actions](https://python.plainenglish.io/how-to-build-an-auto-updating-open-source-dataset-using-kaggle-api-and-github-actions-a7b010eca222?source=rss-d59191da7c75------2) Sun Jan 16 2022 7:03 PM
+ - 🔥 [24 rules of thumb every data scientist should know](https://medium.com/geekculture/24-maxims-every-data-scientist-should-know-d9ef9df5887e?source=rss-d59191da7c75------2) Tue Oct 05 2021 5:42 AM
+ - 🚀 [Generating buddha with python](https://medium.com/mlearning-ai/generating-buddha-with-computation-401c6cb35bb5?source=rss-d59191da7c75------2) Mon Sep 27 2021 3:01 AM
+ - ✨ [Swiss army knife of pandas filtering](https://towardsdatascience.com/swiss-army-knife-of-pandas-filtering-24866166ca97?source=rss-d59191da7c75------2) Sun Sep 19 2021 7:55 AM<!-- BLOG-POST-LIST:END -->
 
 #### ⚡ Active Datasets:
 I maintain these datasets and they are updated everyday,  
