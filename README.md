@@ -1,4 +1,9 @@
 # Hi there, I'm Adi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Data Scientist working in 🛢️ & ⛽ 
+
+- 🔥 Python, JS 
+- 🔨 Vs Code + Vim
+- 💓ML, Data Visualization, UI Design
 
 I am also on:
 <p align="left">
