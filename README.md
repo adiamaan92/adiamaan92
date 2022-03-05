@@ -8,7 +8,8 @@ I am also on:
 
 ### 💡 Projects:
 
-[![Brotground](https://github-readme-stats.vercel.app/api/pin/?username=adiamaan92&repo=brotground&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/adiamaan92/brotground)
+- [Brotground](https://github.com/adiamaan92/brotground)
+Python package to explore the wonderful world of brots!
 
 ### ✍🏽 Blogs:
 <!-- BLOG-POST-LIST:START -->
