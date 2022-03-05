@@ -8,8 +8,8 @@ I am also on:
 
 ### 💡 Projects:
 
-- [Brotground](https://github.com/adiamaan92/brotground)
-Python package to explore the wonderful world of brots!
+- [Brotground](https://github.com/adiamaan92/brotground), A Python package to explore the wonderful world of brots!
+- [MLNotes Handwritten](https://github.com/adiamaan92/mlnotes_handwritten), A collection of ML handwritten notes, optimized for revising
 
 ### ✍🏽 Blogs:
 <!-- BLOG-POST-LIST:START -->
