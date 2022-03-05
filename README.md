@@ -5,12 +5,6 @@ Data Scientist working in 🛢️ & ⛽
 - 🔨 Vs Code + Vim
 - 💓ML, Data Visualization, UI Design
 
-I am also on:
-<p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/adiamaan-keerthi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-     <a href="https://blog.adiamaan.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 ### 💡 Projects:
 
 - [Brotground](https://github.com/adiamaan92/brotground)  
@@ -33,6 +27,12 @@ I maintain these datasets and they are updated everyday,
 
 #### ⚡ Passive Datasets:
 [Movie Subtitle Dataset](https://www.kaggle.com/adiamaan/movie-subtitle-dataset)  
+
+I am also on:
+<p align="left">
+  <a target="_blank" href="https://www.linkedin.com/in/adiamaan-keerthi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+     <a href="https://blog.adiamaan.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 
 ![](https://komarev.com/ghpvc/?username=adiamaan92&style=flat)
