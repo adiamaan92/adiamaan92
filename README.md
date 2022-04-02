@@ -3,7 +3,7 @@ Data Scientist working in 🛢️ & ⛽
 
 - 🔥 Python, JavaScript
 - 🔨 Vs Code + Vim
-- 💓 NLP, MLOps, Data Visualization, UI Design
+- 💓 NLP, MLOps, Data Visualization and UI Design
 
 ### 💡 Projects:
 
