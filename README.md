@@ -1,5 +1,4 @@
-# Hi there, I'm Adi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-Data Scientist working in 🛢️ & ⛽ 
+# Hi there, I'm Adi 
 
 - 🔥 Python, JavaScript
 - 🔨 Vs Code + Vim
